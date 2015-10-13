@@ -11,6 +11,7 @@ The first few times I worked with FileMaker Pro, I realized the application gran
 - Set long text fields to display a vertical scroll bar.
 - Set container fields to reference external files.
 - Set conditional formatting on fields where you want this effect.
+- Create image placeholder merge fields for containers (e.g. "Drag image here").
 - Add a tooltip to every field for which it is even remotely conceivable that someone might need one.
 - Set data formatting of fields, as appropriate (e.g. currency, percentages, etc.).
 - Write helpful custom messages to display when validation fails for all fields with validation turned on.
